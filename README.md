@@ -38,7 +38,7 @@ Experiments are run using the following Python files:
 
 Within the Python scripts, please set the WORKING_DS string to be equal to the name of the dataset you may want to experiment with (i.e. 'MNIST' or 'CIFAR-10'). After that, launch the scripts one at a time using the following command:
 ```bash
-python3 SCRIPTNAME.py
+python3 SCRIPTNAME.py > OUTPUT_SCRIPTNAME.txt
 ```
 
-The results will be incrementally written on text files within the same folder.
+The results will be incrementally written on text files within the same folder. Please note that `FE_bayes_GP.py` automatically saves the results within a JSON file called `logs.log.json`, while the other two print the results on standard output.
