@@ -6,10 +6,15 @@ This work is licensed under Creative Commons BY-NC-ND 4.0. Please **read the lic
 ## Attribution
 If you choose to utilize our work for your research, please cite the following in your work:
 ```bibtex
-@article{PauTowardsFullOnTiny2024
-  title={Towards Full On-Tiny-Device Learning: Guided Search for a Randomly Initialized Neural Network}
-  author={Danilo Pietro Pau and Andrea Pisani and Antonio Candelieri}
-  year={2024}
+@article{pau2024towards,
+  title={Towards Full Forward On-Tiny-Device Learning: A Guided Search for a Randomly Initialized Neural Network},
+  author={Pau, Danilo and Pisani, Andrea and Candelieri, Antonio},
+  journal={Algorithms},
+  volume={17},
+  number={1},
+  pages={22},
+  year={2024},
+  publisher={MDPI}
 }
 ```
 ---
